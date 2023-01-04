@@ -17,11 +17,11 @@ Users should be able to:
 
 **Tablet**
 
-<img src="./solution/tablet.jpg" width=50% height=50%>
+<img src="./solution/tablet.jpg" width=30% height=30%>
 
 **Mobile**
 
-<img src="./solution/desktop.jpg" width=50% height=50%>
+<img src="./solution/mobile.jpg" width=20% height=20%>
 
 ### Links
 
