@@ -21,7 +21,7 @@ Users should be able to:
 
 **Mobile**
 
-<img src="./solution/desktop.jpg" width=50% height=50%>
+<img src="./solution/mobile.jpg" width=50% height=50%>
 
 ### Links
 
